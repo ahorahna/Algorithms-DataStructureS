@@ -6,6 +6,6 @@ python practice
 
 02 Data structures 구현 
 
-03 
+03 Codeit practice
 
 04 Baekjoon practice
