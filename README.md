@@ -2,7 +2,7 @@
 
 python practice 
 
-01 Algorithm 구현 
+01 Algorithms 구현 
 
 02 Data structures 구현 
 
